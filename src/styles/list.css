@@ -1,0 +1,33 @@
+.list-buy {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .item-buy {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .item-buy p {
+    flex: 1;
+    margin: 0;
+  }
+  
+  .item-buy input {
+    width: 50px;
+    margin-right: 10px;
+  }
+  
+  .item-buy button {
+    background-color: #ff5252;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .item-buy button:hover {
+    background-color: #ff1744;
+  }
