@@ -1,8 +1,7 @@
-# React + Vite
+# Shopping Cart React Example
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Check it on Netlify https://the-shopping-cart-react-example.netlify.app
 
-Currently, two official plugins are available:
+1. A shopping cart app that uses React-Router, useContext, useReducer etc in order to build a reactive Shopping Cart. I used the fakeStore API to obatin the products.
+2. Un carrito de la compra que usa React-Router,useContext y otros hooks para construir un carrito de la compra reactivo. He usado la fakeStore Api para conseguir los produtos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
